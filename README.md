@@ -1,7 +1,7 @@
 ShadowDukeInstaller
 ===================
 
-Installation and updates for ShadowDukes Server setup
+Installation and updates for ShadowDukes Server setup up to date as of 9SEP2012
 
 Based on ShadowDuke's 2.5 DayZ/Lingor Server
 
