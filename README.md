@@ -6,7 +6,8 @@ Installation and updates for ShadowDukes Server setup
 Based on ShadowDuke's 2.5 DayZ/Lingor Server
 
 I created a install that lets you play either or by clicking on the link on the desktop or startmenu. 
-uninstall support as well.
+uninstall support as well. THIS INSTALLER WILL OVERWRITE YOUR OLD DATABASE!  NOTES ON HOW TO INSTALL AND KEEP YOUR DATA 
+AT THE BOTTOM OF THE README
 
 Don't forget to grab the files from dayzmod and the files for lingor island. links can be found here
 http://www.tunngle.net/community/topic/85461-dayz-1726-saintly-lingor-island-v034-server-files/
@@ -33,3 +34,8 @@ The install also places these files in your start menu and places an uninstall o
  lingor island put out an update.  Don't expect on before then unless something big is fixed or added.
  
  These are original files and any alterations to them I can't really support but the forums are good for that.  
+ 
+ Want to install and keep your old data?  back up the folder server_setup\xammp\mysql\data.
+ run installer.
+ if your data is from lingor place the data folder in server_setup\xammp\mysql\
+ if your data is from dayz place the data folder in server_setup\xammp2\mysql\
