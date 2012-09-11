@@ -1,7 +1,9 @@
 ShadowDukeInstaller
 ===================
 
-Installation and updates for ShadowDukes Server setup up to date as of 9SEP2012
+Installation and updates for ShadowDukes Server setup up to date as of 11SEP2012
+If you download before the date listed above you can get the update on the other repository.
+Added the ability to run both servers at once.
 
 Based on ShadowDuke's 2.5 DayZ/Lingor Server
 
